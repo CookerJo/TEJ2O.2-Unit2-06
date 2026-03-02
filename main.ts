@@ -1,8 +1,9 @@
-/* Copyright (c) 2020 MTHS All rights reserved
+-+-/* Copyright (c) 2020 MTHS All rights reserved
  *
  * Created by: Josiah
  * Created on: Feb 2026
- * This program ...
+ * This program will will show a check mark when a is pressed when button b is pressed it shows an x.
+ * 
 */
 
 basic.clearScreen()
